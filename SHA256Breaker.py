@@ -7,7 +7,7 @@ if len(sys.argv) != 2:
     exit()
 
 wanted_hash = sys.argv[1]
-password_file = "/usr/share/wordlists/rockyou.txt"
+password_file = "/usr/share/wordlists/rockyou.txt"  #Change here and put your list path
 attempts = 0
 
 with log.progress("Attempting to crack: {}!\n".format(wanted_hash)) as p:
