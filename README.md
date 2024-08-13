@@ -14,7 +14,7 @@ SHA256Breaker is a Python script that performs a brute-force attack on SHA-256 h
 ### Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/0xknoty/SHA256Breaker.git
+    git clone https://github.com/secusavvy/SHA256Breaker.git
     cd SHA256Breaker
     ```
 
